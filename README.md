@@ -90,7 +90,7 @@ Google Drive
 Google Contacts
 Google Maps
 
-and an add (+) button to showcase that more apps can be added (There is a thin line implemented with <hr/> to separate "add" button from other apps
+and an add (+) button to showcase that more apps can be added (There is a thin line implemented with <hr/> to separate "add" button from other apps)
 
 
 ## TextEditor.js Contents
@@ -209,6 +209,6 @@ Used font aweasome to bring logos of undo, redo, print and spell check
 ```
   
 When we click on Editing, it provides options with Editing, Suggesting and Viewing.
-Here we used menu which comes from ```sh @material-tailwind/react ```
+Here we used menu which comes from ``` @material-tailwind/react ```
 
 In images folder we have all the svgs and other images
