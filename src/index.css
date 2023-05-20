@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F9FBFD;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container {
+  width: 55%;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.4);
+  margin: 15px auto 10px auto !important;
+  min-height: 100vh;
+}
+
+.ql-toolbar.ql-snow{
+  display: flex;
+  padding-left: 9rem !important;
+  background-color: #EDF2FA;
+  border: none !important;
+  border-radius: 50px;
+  /* margin-top: 100; */
+  height: 2.5rem;
+}
+
+.extra-icons{
+  margin-top: -17px;
+  padding-left: 40px;
+  
+}
+
+.menu-btn {
+  cursor: pointer;
+  padding-left: 6px;
+  border-radius: 4px;
+  padding-right: 6px;
+  font-size: 14px;
+  color: #202124;
+  letter-spacing: .2px;
+}
+
+.message-icon {
+  padding: 5px 7px 5px 7px;
+  border-radius: 50px;
+}
+
+/* .star-icon{
+  background-color: red;
+  border-radius: 50px;
+} */
+
+.video-icon {
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.tool-edit-btn:hover {
+  padding: 2px 3px 1px 3px;
+  border-radius: 20px;
+}
+.tool-edit-btn:hover {
+  background-color: #DFE5EB
+}
+
+.menu-btn:hover, .message-icon:hover, .video-icon:hover {
+  background-color: #E8EBEE;
+}
+
+.titleInput:hover {
+  box-shadow: 0 0 2px black;
+}
+
+.share-btn{
+  font-family: Google Sans,Roboto,sans-serif;
+  background-color: #C2E7FF;
+}
+
+.share-btn:hover{
+  background-color: #B2D7EF;
+}
+
+.data-floating-ui-portal{
+  background-color: red !important;
+}
