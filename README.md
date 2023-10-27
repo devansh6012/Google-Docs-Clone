@@ -2,7 +2,7 @@
 
 React JS and tailwind CSS was used to build this project
 
-Deployment: https://ozk9kn-3000.csb.app/
+Deployment: https://sage-mousse-7eaa6f.netlify.app/
 
 In components folder we have all the components
 Header.js
